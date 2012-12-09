@@ -1,9 +1,7 @@
 #Kusamea tskxe - *The Seeing Stone*
-## Developing Tools for the Na'vi language.
-
 ---
-*Nì'ul kame tskxe. Poru ting nari.* - Tsu'tey
-*A rock sees more. Look at him.* - Tsu'tey
+
+*Nì'ul kame tskxe. Poru ting nari.* A rock sees more. Look at him. - Tsu'tey
 
 ##About
 This is a project to develop better computational tools for the language
@@ -12,6 +10,14 @@ are a variety of tools already available for Na'vi, there are few that
 are aimed at being interoperable and completely open source. All work
 here will be done completely open source, on a CC Attribution Share
 Alike license. 
+
+##Joining in
+
+There will probably be a [LearnNavi](http://forum.learnnavi.org) thread
+as soon as there is something non-trivial here. This started with a
+suggestion on the [G+ LN
+Community](https://plus.google.com/u/0/communities/111266205988490273811)
+thread. 
 
 Feel free to join in! Send me a request. 
 
