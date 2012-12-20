@@ -1,0 +1,3092 @@
+[
+	{
+		"id": 84, 
+		"ipa": "faj", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "diese (plural)"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "these"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "need"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "ezek a/az..."
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "deze (mv.)"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "dessa"
+			}
+		}, 
+		"navi": "fay+", 
+		"position": null, 
+		"shorthand": "This.PL"
+	}, 
+	{
+		"id": 433, 
+		"ipa": "sæ", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "instrumentelles Nomen"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "instrumental noun"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "ns."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "-ás/-és, -ság/-ség"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "instrumentaal"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "instrumentalt substantiv"
+			}
+		}, 
+		"navi": "sä--", 
+		"position": null, 
+		"shorthand": "INST"
+	}, 
+	{
+		"id": 832, 
+		"ipa": "a.m", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Präteritum"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "past tense"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Lihtmineviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "múlt idő jele"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "verleden tijd"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "föregående tempus"
+			}
+		}, 
+		"navi": "am", 
+		"position": "1", 
+		"shorthand": "past."
+	}, 
+	{
+		"id": 833, 
+		"ipa": "aR.m", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Präteritum, imperfektiver Aspekt"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "imperfective past tense"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Lõpetamata (imperfektiivse) mineviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "befejezetlen múlt idő jele"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "onvoltooid verleden tijd"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "imperfekt föregående tempus"
+			}
+		}, 
+		"navi": "arm", 
+		"position": "1", 
+		"shorthand": "impf.past."
+	}, 
+	{
+		"id": 834, 
+		"ipa": "a.j", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Zukunft, Futur"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "future tense"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Tuleviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "jövő idő jele"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "toekomstige tijd"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "framtida tempus"
+			}
+		}, 
+		"navi": "ay", 
+		"position": "1", 
+		"shorthand": "fut."
+	}, 
+	{
+		"id": 835, 
+		"ipa": "æ.N", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Pejorativer Affekt"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "pejorative affect"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Halvustava või laitva mõjutuse tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "rosszallást kifejező"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "verslechterend effect"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "negativ mening"
+			}
+		}, 
+		"navi": "äng", 
+		"position": "2", 
+		"shorthand": "pej."
+	}, 
+	{
+		"id": 836, 
+		"ipa": "æ.p", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Reflexiv"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "reflexive"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Enesekohase asesõna tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "visszaható névmás"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "wederkerend"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "reflektorisk"
+			}
+		}, 
+		"navi": "äp", 
+		"position": "pre-first", 
+		"shorthand": "refl."
+	}, 
+	{
+		"id": 837, 
+		"ipa": "E.i", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Laudativer Affekt"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "laudative affect"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Kiitva, hea mõjutuse tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "boldogságot kifejező"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "verbeterend effect"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "positiv mening"
+			}
+		}, 
+		"navi": "ei", 
+		"position": "2", 
+		"shorthand": "laud."
+	}, 
+	{
+		"id": 838, 
+		"ipa": "E.R", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Imperfektiver Aspekt"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "imperfective aspect"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Lõpetamata (imperfektiivse) tegevuse tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "befejezetlenséget, folyamatosságot jelez"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "onvoltooid aspect"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "presens, nutid, pågående"
+			}
+		}, 
+		"navi": "er", 
+		"position": "1", 
+		"shorthand": "impf."
+	}, 
+	{
+		"id": 839, 
+		"ipa": "il.v", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Präsens Perfektiver Subjunktiv"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "present perfective subjunctive"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Tingiva oleviku perfektiivne tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "jelen idejű befejezett kötőmód"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "huidige perfectieve aanvoegende wijs"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "nutida, perfekt konjunktiv"
+			}
+		}, 
+		"navi": "ilv", 
+		"position": "1", 
+		"shorthand": "pres.per.subj."
+	}, 
+	{
+		"id": 840, 
+		"ipa": "im.v", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Präteritum Subjunktiv"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "past subjunctive"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Tingiva täismineviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "múlt idejű kötőmód"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "afgelopen aanvoegende wijs"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "förflutet konjunktiv"
+			}
+		}, 
+		"navi": "imv", 
+		"position": "1", 
+		"shorthand": "past.subj."
+	}, 
+	{
+		"id": 841, 
+		"ipa": "iR.v", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Präsens Imperfektiver Subjunktiv"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "present imperfective subjunctive"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Tingiva lõpetamata (impefektiivse) oleviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "jelen idejű befejezetlen kötőmód"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "tegenwoordige tijd"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "presens, imperfekt konjunktiv"
+			}
+		}, 
+		"navi": "irv", 
+		"position": "1", 
+		"shorthand": "pres.impf.subj."
+	}, 
+	{
+		"id": 842, 
+		"ipa": "i.v", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Subjunktiv (Modus)"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "subjunctive mood"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Tingiva kõneviisi tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "kötőmód jele"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "conjunctief"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "konjunktiv"
+			}
+		}, 
+		"navi": "iv", 
+		"position": "1", 
+		"shorthand": "subj."
+	}, 
+	{
+		"id": 843, 
+		"ipa": "i.jE.v", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Futur Subjunktiv"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "future subjunctive"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Tingiva tuleviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "jövő idejű kötőmód"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "toekomstig subjunctief"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "framtida konjunktiv"
+			}
+		}, 
+		"navi": "iyev", 
+		"position": "1", 
+		"shorthand": "fut.subj."
+	}, 
+	{
+		"id": 844, 
+		"ipa": "I.m", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "unmittelbare Vergangenheit"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "recent past"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Hiljutise lihtmineviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "közelmúlt jele"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "recent verleden"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "Nylig dåtid"
+			}
+		}, 
+		"navi": "ìm", 
+		"position": "1", 
+		"shorthand": "rec.past."
+	}, 
+	{
+		"id": 846, 
+		"ipa": "I.j", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "unmittelbare Zukunft"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "immediate future tense"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Kohese tuleviku tunnus"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "közeljövő jele"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "onmiddelijk toekomstige tijd"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "Omedelbart framtida tempus"
+			}
+		}, 
+		"navi": "ìy", 
+		"position": "1", 
+		"shorthand": "imm.fut."
+	}, 
+	{
+		"id": 847, 
+		"ipa": "I.jE.v", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Futur Subjunktiv"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "future subjunctive"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Tingiva tuleviku tunnus"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "jövő idejű kötőmódú"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "toekomstig conjunctief"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "framtida konjunktiv"
+			}
+		}, 
+		"navi": "ìyev", 
+		"position": "1", 
+		"shorthand": "fut.subj."
+	}, 
+	{
+		"id": 848, 
+		"ipa": "o.l", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Perfektiver Aspekt"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "perfective aspect"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Lõpetatud (perfektiivse) tegevuse tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "befejezett cselekvés"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "perfectief aspect"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "perfekt"
+			}
+		}, 
+		"navi": "ol", 
+		"position": "1", 
+		"shorthand": "perf."
+	}, 
+	{
+		"id": 849, 
+		"ipa": "u.s", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Partizip Aktiv"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "active participle"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "V-kesksõna tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "folyamatos melléknévi igenevet képző"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "actief deelwoord"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "aktiv particip"
+			}
+		}, 
+		"navi": "us", 
+		"position": "1", 
+		"shorthand": "a.part."
+	}, 
+	{
+		"id": 850, 
+		"ipa": "u.j", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "ehrend oder zeremoniell"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "honorific (honourific) or ceremonial"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Austava või tseremoniaalse mõjutuse tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "megtisztelő vagy szertartásos"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "Beleefdheidsvorm of plechtige vorm"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "Ärofull eller ceremoniel betydelse"
+			}
+		}, 
+		"navi": "uy", 
+		"position": "2", 
+		"shorthand": "hon."
+	}, 
+	{
+		"id": 851, 
+		"ipa": "æ", 
+		"localized": {
+			"de": {
+				"habitat": "alles außer {\\bf a, ä, e,} und {\\bf ì}", 
+				"languageCode": "de", 
+				"meaning": "Genitiv"
+			}, 
+			"en": {
+				"habitat": "everything but {\\bf a, ä, e, i} and {\\bf ì}", 
+				"languageCode": "en", 
+				"meaning": "genitive"
+			}, 
+			"est": {
+				"habitat": "{\\bf a, ä, e,} ja {\\bf ì}-ga", 
+				"languageCode": "est", 
+				"meaning": "Omastava (genitiivse) kääne"
+			}, 
+			"hu": {
+				"habitat": "msh.-ra és o-ra vagy u-", 
+				"languageCode": "hu", 
+				"meaning": "birtokos eset"
+			}, 
+			"nl": {
+				"habitat": "alles behalve {\\bf a, ä, e, i} en {\\bf ì}", 
+				"languageCode": "nl", 
+				"meaning": "genitief"
+			}, 
+			"sv": {
+				"habitat": "allt förutom {\\bf a, ä, e,} och {\\bf ì}", 
+				"languageCode": "sv", 
+				"meaning": "genitiv"
+			}
+		}, 
+		"navi": "--ä", 
+		"position": null, 
+		"shorthand": "gen."
+	}, 
+	{
+		"id": 852, 
+		"ipa": "an", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Maskulines Suffix für bestimmte Nomen"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "masculine suffix for certain nouns"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Meessoo tunnus teatud nimisõnadele"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "hímnem jele bizonyos főnevek végén"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "mannelijk achtervoegsel voor bep. zelfst. naamwoorden"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "(1) maskulint suffix för vissa substantiv"
+			}
+		}, 
+		"navi": "--an", 
+		"position": null, 
+		"shorthand": "masc."
+	}, 
+	{
+		"id": 853, 
+		"ipa": "aj", 
+		"localized": {
+			"de": {
+				"habitat": "Nomen", 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) Plural"
+			}, 
+			"en": {
+				"habitat": "nouns", 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) plural"
+			}, 
+			"est": {
+				"habitat": "nimisõnadele", 
+				"languageCode": "est", 
+				"meaning": "Mitmuse"
+			}, 
+			"hu": {
+				"habitat": "főnevek elején", 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) többes szám"
+			}, 
+			"nl": {
+				"habitat": "zelfst. naamwoorden", 
+				"languageCode": "nl", 
+				"meaning": "meervoud"
+			}, 
+			"sv": {
+				"habitat": "substantiv", 
+				"languageCode": "sv", 
+				"meaning": "plural"
+			}
+		}, 
+		"navi": "ay+", 
+		"position": null, 
+		"shorthand": "pl."
+	}, 
+	{
+		"id": 854, 
+		"ipa": "E", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Feminines Suffix für bestimmte Nomen"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "feminine suffix for certain nouns"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Naissoo tunnus nimisõnadele"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "nőnem jelző bizonyos főnevek végén"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "vrouwelijk achtervoegsel voor bep. zelfst. naamwoorden"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "(1) feminint suffix för vissa suffix"
+			}
+		}, 
+		"navi": "--e", 
+		"position": null, 
+		"shorthand": "fem."
+	}, 
+	{
+		"id": 856, 
+		"ipa": "Il", 
+		"localized": {
+			"de": {
+				"habitat": "Konsonant, Diphthong oder Pseudo-Vokal", 
+				"languageCode": "de", 
+				"meaning": "Agens"
+			}, 
+			"en": {
+				"habitat": "consonant, dipthong, or pseudo-vowel", 
+				"languageCode": "en", 
+				"meaning": "agentive case"
+			}, 
+			"est": {
+				"habitat": "konsonandi, diftongi või pooltäishääliku", 
+				"languageCode": "est", 
+				"meaning": "Aluse käände"
+			}, 
+			"hu": {
+				"habitat": "msh./mássalhangzó", 
+				"languageCode": "hu", 
+				"meaning": "jelölt alany"
+			}, 
+			"sv": {
+				"habitat": "konsonant, diftong, eller pseudo-vokal", 
+				"languageCode": "sv", 
+				"meaning": "Ergativ händelse"
+			}
+		}, 
+		"navi": "--ìl", 
+		"position": null, 
+		"shorthand": "erg."
+	}, 
+	{
+		"id": 857, 
+		"ipa": "IRi", 
+		"localized": {
+			"de": {
+				"habitat": "Konsonant, Diphthong oder Pseudo-Vokal", 
+				"languageCode": "de", 
+				"meaning": "Themen-Marker (Topic)"
+			}, 
+			"en": {
+				"habitat": "consonant, dipthong, or pseudo-vowel", 
+				"languageCode": "en", 
+				"meaning": "topical"
+			}, 
+			"est": {
+				"habitat": "konsonandi, diftongi või eritäishäälikutega", 
+				"languageCode": "est", 
+				"meaning": "Teema käände"
+			}, 
+			"hu": {
+				"habitat": "msh./mássalhangzó", 
+				"languageCode": "hu", 
+				"meaning": "jelölt tárgy"
+			}, 
+			"nl": {
+				"habitat": "medeklinker, difthong of pseudo-klinker", 
+				"languageCode": "nl", 
+				"meaning": "onderwerp"
+			}, 
+			"sv": {
+				"habitat": "konsonant, diftong, eller pseudo-vokal", 
+				"languageCode": "sv", 
+				"meaning": "Aktuellt"
+			}
+		}, 
+		"navi": "--ìri", 
+		"position": null, 
+		"shorthand": "top."
+	}, 
+	{
+		"id": 858, 
+		"ipa": "it\\textcorner", 
+		"localized": {
+			"de": {
+				"habitat": "Konsonant, Diphthong oder Pseudo-Vokal", 
+				"languageCode": "de", 
+				"meaning": "Patiens"
+			}, 
+			"en": {
+				"habitat": "consonant, dipthong, or pseudo-vowel", 
+				"languageCode": "en", 
+				"meaning": "patientive"
+			}, 
+			"est": {
+				"habitat": "konsonandi, diftongi või eritäishäälikutega", 
+				"languageCode": "est", 
+				"meaning": "Sihitava käände"
+			}, 
+			"hu": {
+				"habitat": "msh./mássalhangzó, kettőshangzóra vagy vokális mássalhangzó", 
+				"languageCode": "hu", 
+				"meaning": "tárgyeset"
+			}, 
+			"nl": {
+				"habitat": "medeklinker, difthong of pseudo-klinker", 
+				"languageCode": "nl", 
+				"meaning": "aanwijzend"
+			}, 
+			"sv": {
+				"habitat": "konsonant, diftong, eller pseudo-vokal", 
+				"languageCode": "sv", 
+				"meaning": "ackusativ"
+			}
+		}, 
+		"navi": "--it", 
+		"position": null, 
+		"shorthand": "pat."
+	}, 
+	{
+		"id": 859, 
+		"ipa": "l", 
+		"localized": {
+			"de": {
+				"habitat": "Nomen, die auf einen Vokal enden", 
+				"languageCode": "de", 
+				"meaning": "Agens"
+			}, 
+			"en": {
+				"habitat": "nouns ending in a vowel", 
+				"languageCode": "en", 
+				"meaning": "agentive case"
+			}, 
+			"est": {
+				"habitat": "nimisõnadele, mis lõppevad täishäälikuga", 
+				"languageCode": "est", 
+				"meaning": "Aluse käände"
+			}, 
+			"hu": {
+				"habitat": "mgh-ra végződő főnevek esetén", 
+				"languageCode": "hu", 
+				"meaning": "ergatív esetű alany"
+			}, 
+			"sv": {
+				"habitat": "substantiv som slutar på vokal", 
+				"languageCode": "sv", 
+				"meaning": "Ergativ händelse"
+			}
+		}, 
+		"navi": "--l", 
+		"position": null, 
+		"shorthand": "erg."
+	}, 
+	{
+		"id": 861, 
+		"ipa": "mE", 
+		"localized": {
+			"de": {
+				"habitat": "Nomen", 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) Dual"
+			}, 
+			"en": {
+				"habitat": "nouns", 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) dual"
+			}, 
+			"est": {
+				"habitat": "nimisõnadele", 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) Kaksikvormi"
+			}, 
+			"hu": {
+				"habitat": "főnevek", 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) kettes szám jele"
+			}, 
+			"nl": {
+				"habitat": "zelfst. naamwoorden", 
+				"languageCode": "nl", 
+				"meaning": "duaal"
+			}, 
+			"sv": {
+				"habitat": "substantiv", 
+				"languageCode": "sv", 
+				"meaning": "Dubbel"
+			}
+		}, 
+		"navi": "me+", 
+		"position": null, 
+		"shorthand": "du."
+	}, 
+	{
+		"id": 863, 
+		"ipa": "pE", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) Affix Interrogativ-Marker \\textit{welche}"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) affix inter. marker"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) Küsimuse eesliide"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) kérdőszóképző"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "(4) affix inter. marker \\textit{wat}"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "(4) affix interr. markör \\textit{vad}"
+			}
+		}, 
+		"navi": "--pe+", 
+		"position": null, 
+		"shorthand": "inter."
+	}, 
+	{
+		"id": 864, 
+		"ipa": "p'E", 
+		"localized": {
+			"de": {
+				"habitat": "Nomen und Pronomen", 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) Trial"
+			}, 
+			"en": {
+				"habitat": "nouns and pronouns", 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) trial"
+			}, 
+			"est": {
+				"habitat": "nimisõnadele ja asesõnadele", 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) Kolmikvormi"
+			}, 
+			"hu": {
+				"habitat": "főnevek és névmások elején", 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) hármas szám jele"
+			}, 
+			"nl": {
+				"habitat": "zelfst. naamwoorden en zelfst. bijwoorden", 
+				"languageCode": "nl", 
+				"meaning": "proef"
+			}, 
+			"sv": {
+				"habitat": "substantiv och pronomen", 
+				"languageCode": "sv", 
+				"meaning": "trippel"
+			}
+		}, 
+		"navi": "pxe+", 
+		"position": null, 
+		"shorthand": "tri."
+	}, 
+	{
+		"id": 865, 
+		"ipa": "Ri", 
+		"localized": {
+			"de": {
+				"habitat": "Nomen, die auf einen Vokal enden", 
+				"languageCode": "de", 
+				"meaning": "Themen-Marker"
+			}, 
+			"en": {
+				"habitat": "nouns ending in a vowel", 
+				"languageCode": "en", 
+				"meaning": "topical"
+			}, 
+			"est": {
+				"habitat": "tegusõnadele, mis lõppevad täishäälikuga", 
+				"languageCode": "est", 
+				"meaning": "Teema käände"
+			}, 
+			"hu": {
+				"habitat": "mgh-ra végződő főnevek esetén", 
+				"languageCode": "hu", 
+				"meaning": "jelölt (topikális) alany"
+			}, 
+			"sv": {
+				"habitat": "substantiv som slutar på vokal", 
+				"languageCode": "sv", 
+				"meaning": "ämne"
+			}
+		}, 
+		"navi": "--ri", 
+		"position": null, 
+		"shorthand": "top."
+	}, 
+	{
+		"id": 866, 
+		"ipa": "Ru", 
+		"localized": {
+			"de": {
+				"habitat": "Vokal", 
+				"languageCode": "de", 
+				"meaning": "Dativ"
+			}, 
+			"en": {
+				"habitat": "vowel", 
+				"languageCode": "en", 
+				"meaning": "dative"
+			}, 
+			"est": {
+				"habitat": "täishäälikuga", 
+				"languageCode": "est", 
+				"meaning": "Datiivse käände"
+			}, 
+			"hu": {
+				"habitat": "mgh.-", 
+				"languageCode": "hu", 
+				"meaning": "részes eset"
+			}, 
+			"nl": {
+				"habitat": "klinker", 
+				"languageCode": "nl", 
+				"meaning": "datief"
+			}, 
+			"sv": {
+				"habitat": "vokal", 
+				"languageCode": "sv", 
+				"meaning": "dativ"
+			}
+		}, 
+		"navi": "--ru", 
+		"position": null, 
+		"shorthand": "dat."
+	}, 
+	{
+		"id": 867, 
+		"ipa": "t\\textcorner", 
+		"localized": {
+			"de": {
+				"habitat": "Vokal", 
+				"languageCode": "de", 
+				"meaning": "Patiens"
+			}, 
+			"en": {
+				"habitat": "vowel", 
+				"languageCode": "en", 
+				"meaning": "patientive"
+			}, 
+			"est": {
+				"habitat": "täishäälikuga", 
+				"languageCode": "est", 
+				"meaning": "Sihitava käände"
+			}, 
+			"hu": {
+				"habitat": "mgh.-", 
+				"languageCode": "hu", 
+				"meaning": "tárgyeset"
+			}, 
+			"nl": {
+				"habitat": "klinker", 
+				"languageCode": "nl", 
+				"meaning": "aanwijzend"
+			}, 
+			"sv": {
+				"habitat": "vokal", 
+				"languageCode": "sv", 
+				"meaning": "ackusativ"
+			}
+		}, 
+		"navi": "--t", 
+		"position": null, 
+		"shorthand": "pat."
+	}, 
+	{
+		"id": 868, 
+		"ipa": "ti", 
+		"localized": {
+			"de": {
+				"habitat": "Pronomen und Nomen", 
+				"languageCode": "de", 
+				"meaning": "Patiens"
+			}, 
+			"en": {
+				"habitat": "pronouns and nouns", 
+				"languageCode": "en", 
+				"meaning": "patientive"
+			}, 
+			"est": {
+				"habitat": "nimisõnadele ja asesõnadele", 
+				"languageCode": "est", 
+				"meaning": "Sihitava käände"
+			}, 
+			"hu": {
+				"habitat": "névmások és főnevek végén", 
+				"languageCode": "hu", 
+				"meaning": "tárgyeset"
+			}, 
+			"nl": {
+				"habitat": "voornaamwoorden en zelfst. naamwoorden", 
+				"languageCode": "nl", 
+				"meaning": "aanwijzend"
+			}, 
+			"sv": {
+				"habitat": "substantiv och pronomen", 
+				"languageCode": "sv", 
+				"meaning": "ackusativ"
+			}
+		}, 
+		"navi": "--ti", 
+		"position": null, 
+		"shorthand": "pat."
+	}, 
+	{
+		"id": 869, 
+		"ipa": "uR", 
+		"localized": {
+			"de": {
+				"habitat": "Konsonant, Diphthong oder Pseudo-Vokal", 
+				"languageCode": "de", 
+				"meaning": "Dativ"
+			}, 
+			"en": {
+				"habitat": "consonant, dipthong, or pseudo-vowel", 
+				"languageCode": "en", 
+				"meaning": "dative"
+			}, 
+			"est": {
+				"habitat": "konsonandi, diftongi või eritäishäälikutega", 
+				"languageCode": "est", 
+				"meaning": "Datiivse käände"
+			}, 
+			"hu": {
+				"habitat": "msh./mássalhangzó, kettőshangzóra vagy vokális mássalhangzó", 
+				"languageCode": "hu", 
+				"meaning": "részes eset"
+			}, 
+			"nl": {
+				"habitat": "medeklinker, difthong of pseudo-klinker", 
+				"languageCode": "nl", 
+				"meaning": "datief"
+			}, 
+			"sv": {
+				"habitat": "konsonant, diftong, eller pseudo-vokal", 
+				"languageCode": "sv", 
+				"meaning": "dativ"
+			}
+		}, 
+		"navi": "--ur", 
+		"position": null, 
+		"shorthand": "dat."
+	}, 
+	{
+		"id": 870, 
+		"ipa": "jæ", 
+		"localized": {
+			"de": {
+				"habitat": "{\\bf a, ä, e,} und {\\bf ì}", 
+				"languageCode": "de", 
+				"meaning": "Genitiv"
+			}, 
+			"en": {
+				"habitat": "{\\bf a, ä, e, i} and {\\bf ì}", 
+				"languageCode": "en", 
+				"meaning": "genitive"
+			}, 
+			"est": {
+				"habitat": "{\\bf a, ä, e,} ja {\\bf ì}-ga", 
+				"languageCode": "est", 
+				"meaning": "Datiivse käände"
+			}, 
+			"hu": {
+				"habitat": "mgh. (kivéve o és u)-", 
+				"languageCode": "hu", 
+				"meaning": "birtokos eset"
+			}, 
+			"nl": {
+				"habitat": "{\\bf a, ä, e, i} en {\\bf ì}", 
+				"languageCode": "nl", 
+				"meaning": "genitief"
+			}, 
+			"sv": {
+				"habitat": "{\\bf a, ä, e,} och {\\bf ì}", 
+				"languageCode": "sv", 
+				"meaning": "genitiv"
+			}
+		}, 
+		"navi": "--yä", 
+		"position": null, 
+		"shorthand": "gen."
+	}, 
+	{
+		"id": 871, 
+		"ipa": "a", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) adjektivischer Attribut und Nebensatz-Marker"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) adjectival attribution and subordination marker"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.})Omadussõna tunnus"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) melléknévjelző"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "adjectieve attributieve markering"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "adjektivattribut och bisatsmarkör"
+			}
+		}, 
+		"navi": "--a--", 
+		"position": null, 
+		"shorthand": "adj."
+	}, 
+	{
+		"id": 872, 
+		"ipa": "lE", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Adjektivpräfix"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "adjective"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Omadussõnade"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "melléknevet"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "(0) adjectief"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "adjektiv"
+			}
+		}, 
+		"navi": "le--", 
+		"position": null, 
+		"shorthand": "adj."
+	}, 
+	{
+		"id": 873, 
+		"ipa": "nI", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Adverbialpräfix"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "adverbial"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Määrsõnade"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "határozószót"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "bijwoordelijk"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "adverb"
+			}
+		}, 
+		"navi": "nì--", 
+		"position": null, 
+		"shorthand": "adv."
+	}, 
+	{
+		"id": 874, 
+		"ipa": "sæ", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "instrumentelles Nomen"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "instrumental noun"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "-mine lõpuga nimisõnade"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "instrumentális főnevet"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "(0) dienstig zelfst. naamwoord"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "instrumentalis substantiv"
+			}
+		}, 
+		"navi": "sä--", 
+		"position": null, 
+		"shorthand": "instr."
+	}, 
+	{
+		"id": 875, 
+		"ipa": "s$\\cdot$i", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "nachgestelltes Verb"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "postpositional verb"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Põhisõnale järgnev tegusõna"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "összetett igéket"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "napositioneel werkwoord"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "postpositionalt verb"
+			}
+		}, 
+		"navi": "si", 
+		"position": null, 
+		"shorthand": "v."
+	}, 
+	{
+		"id": 876, 
+		"ipa": "tI", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Nomen"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "noun"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Nimisõnade"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "absztrakt főnevet"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "(0) zelfstandig naamwoord"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "substantiv"
+			}
+		}, 
+		"navi": "tì--", 
+		"position": null, 
+		"shorthand": "n."
+	}, 
+	{
+		"id": 877, 
+		"ipa": "tu", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) Personensuffix bei nicht-Verben"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) person noun from non-verbal stem"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) Tegija"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) nem igei tőből személyt jelentő főnevet"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "({\\bf pro.}) persoons zelfst. naamwoord van niet-werkwoord stam"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) direkt objekt substantiv"
+			}
+		}, 
+		"navi": "--tu", 
+		"position": null, 
+		"shorthand": "d.o.nom."
+	}, 
+	{
+		"id": 878, 
+		"ipa": "ju", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) Personensuffix bei Verben"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) agent noun"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) Tegija"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) főnév"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "(4) agerend zelfst. naamwoord"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) agentivt substantiv"
+			}
+		}, 
+		"navi": "--yu", 
+		"position": null, 
+		"shorthand": "a.nom."
+	}, 
+	{
+		"id": 932, 
+		"ipa": "Ej.k", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Kausativ"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "causative"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Põhjustava (kausatiivse) tegusõna tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "műveltető"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "oorzakelijk"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "orsakande"
+			}
+		}, 
+		"navi": "eyk", 
+		"position": "pre-first", 
+		"shorthand": "caus."
+	}, 
+	{
+		"id": 998, 
+		"ipa": "a.\\t{ts}", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Inferential, zeigt Unsicherheit an oder indirektes Wissen (Hörensagen)"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "inferential, indicating uncertainty or indirect knowledge"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Kaudse kõneviisi ja ebakindlate teadmiste tunnus"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "inferenciális, bizonytalan vagy indirekt értesülést jelölő"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "inferentieel, geeft onzekerheid of indirecte kennis aan"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "osäker handling, vilket tyder på osäkerhet eller indirekt kunskap"
+			}
+		}, 
+		"navi": "ats", 
+		"position": "2", 
+		"shorthand": "infr."
+	}, 
+	{
+		"id": 1063, 
+		"ipa": "o", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) Indefinit-Suffix, zeitliche Dauer"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) indefinite suffix, durative suffix"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) Umbisiikulilise tegumoe, kestva toimingu järelliide"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) határozatlan toldalék"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "(4) onbepaald voorvoegsel"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) suffix"
+			}
+		}, 
+		"navi": "--o", 
+		"position": null, 
+		"shorthand": "indef., dur."
+	}, 
+	{
+		"id": 1064, 
+		"ipa": "I.sj", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "unmittelbares Futur mit Absicht"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "immediate future tense with determination"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Kohese lubava/otsustava tuleviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "közeljövőbeni szándékot kifejező"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "onmiddellijke toekomstige tijd met bepaling"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "omedelbart framtida tempus med beslutsamhet"
+			}
+		}, 
+		"navi": "ìsy", 
+		"position": "1", 
+		"shorthand": "imm.fut.d."
+	}, 
+	{
+		"id": 1065, 
+		"ipa": "a.sj", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Futur mit Absicht"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "future tense with determination"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Lubava/otsustava tuleviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "jövőbeni szándékot kifejező"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "toekomstige tijd met bepaling"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "framtida tempus med beslutsamhet"
+			}
+		}, 
+		"navi": "asy", 
+		"position": "1", 
+		"shorthand": "fut.d."
+	}, 
+	{
+		"id": 1066, 
+		"ipa": "aw.n", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Partizip Passiv"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "passive participle"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "-nud, -tud vormi tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "befejezett melléknévi igenevet képző"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "passief deelwoord"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "passiv patricip"
+			}
+		}, 
+		"navi": "awn", 
+		"position": "1", 
+		"shorthand": "p.part."
+	}, 
+	{
+		"id": 1094, 
+		"ipa": "lo", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "multiplikativer Zahlen Suffix für 'aw, mune, pxey"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "multiplicative number suffix for 'aw, mune, pxey"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Korra arvu järelliide numbritele 'aw, mune, pxey"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "számhatározórag"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "(3) meervoudig nummer toevoeging voor 'aw, mune, pxey"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "multiplikativ nummer-suffix för 'aw, mune, pxey"
+			}
+		}, 
+		"navi": "--lo", 
+		"position": null, 
+		"shorthand": "mult."
+	}, 
+	{
+		"id": 1260, 
+		"ipa": "vE", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) ordinaler Suffix für Zahlen"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) ordinal suffix for numbers"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) Järgarvu järelliide numbritele"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) sorszámnévi toldalék"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "({\\bf pro.}) tellend achtervoegsel voor getallen"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) suffix för att skapa ordningstal"
+			}
+		}, 
+		"navi": "--ve", 
+		"position": null, 
+		"shorthand": "ord."
+	}, 
+	{
+		"id": 1287, 
+		"ipa": "vi", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "partieller Beziehungsmarker"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "partitive relationship marker"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "(millegi) väiksema osa näitaja"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "rész-egész viszonyt jelző toldalék (nem nagyon produktív)"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "(2) partitieve relatie markering"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "partitiv förhållande markör"
+			}
+		}, 
+		"navi": "--vi", 
+		"position": null, 
+		"shorthand": "part."
+	}, 
+	{
+		"id": 1316, 
+		"ipa": "ja", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Vokativsuffix für Gruppenbezeichnungen"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "vocative suffix for collective nouns"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Järelliide üttele kollektiivsete nimisõnade puhul"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "megszólító eset ragja gyűjtőnevek végén"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "vocatief voorvoegsel voor collectieve zelfst. naamwoorden"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "vokativt suffix för kollektiva substantiv"
+			}
+		}, 
+		"navi": "--ya", 
+		"position": null, 
+		"shorthand": "voc."
+	}, 
+	{
+		"id": 1333, 
+		"ipa": "j", 
+		"localized": {
+			"de": {
+				"habitat": "Pronomen, die auf a oder e enden (umgangssprachlich)", 
+				"languageCode": "de", 
+				"meaning": "Genitiv"
+			}, 
+			"en": {
+				"habitat": "pronouns ending in a or e (casual speech)", 
+				"languageCode": "en", 
+				"meaning": "genitive"
+			}, 
+			"est": {
+				"habitat": "tähega a või e lõppevatele asesõnadele", 
+				"languageCode": "est", 
+				"meaning": "Omastava (genitiivse) käände"
+			}, 
+			"hu": {
+				"habitat": "a-ra vagy e-re végződő névmások végére (köznapi beszédben)", 
+				"languageCode": "hu", 
+				"meaning": "birtoklás"
+			}, 
+			"nl": {
+				"habitat": "voornaamwoorden eindigend op a of e (spreektaal)", 
+				"languageCode": "nl", 
+				"meaning": "genitief"
+			}, 
+			"sv": {
+				"habitat": "pronomen som slutar på a eller e (vardagligt tal)", 
+				"languageCode": "sv", 
+				"meaning": "genitiv"
+			}
+		}, 
+		"navi": "--y", 
+		"position": null, 
+		"shorthand": "gen."
+	}, 
+	{
+		"id": 1515, 
+		"ipa": "IR.j", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "imperfektiver Aspekt der unmittelbaren Zukunft"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "imperfective immediate future tense"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Kohese lõpetamata (imperfektiivse) tuleviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "folyamatos közeljövőre utaló"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "onvoltooid onmiddellijk toekomende tijd"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "imperfekt omedelbart framtia tempus"
+			}
+		}, 
+		"navi": "ìry", 
+		"position": "1", 
+		"shorthand": "impf.imm.fut."
+	}, 
+	{
+		"id": 1516, 
+		"ipa": "Il.j", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "perfektiver Aspekt der unmittelbaren Zukunft"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "perfective immediate future tense"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Kohese lõpetatud (perfektiivse) tuleviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "befejezett közeljövőre utaló"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "voltooid onmiddellijk toekomende tijd"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "perfekt omedelbart framtida tempus"
+			}
+		}, 
+		"navi": "ìly", 
+		"position": "1", 
+		"shorthand": "perf.imm.fut."
+	}, 
+	{
+		"id": 1517, 
+		"ipa": "al.m", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "perfektive Vergangenheit"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "perfective past tense"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Lõpetatud (perfektiivse) tegevuse tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "befejezett múlt időt kifejező"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "voltooid verleden tijd"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "perfekt dåtida tempus"
+			}
+		}, 
+		"navi": "alm", 
+		"position": "1", 
+		"shorthand": "perf.past"
+	}, 
+	{
+		"id": 1518, 
+		"ipa": "al.j", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "perfektive Zukunft"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "perfective future tense"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Lõpetatud (perfektiivse) tuleviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "befejezett jövőre utaló"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "voltooid toekomende tijd"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "perfekt framtida tempus"
+			}
+		}, 
+		"navi": "aly", 
+		"position": "1", 
+		"shorthand": "perf.fut."
+	}, 
+	{
+		"id": 1519, 
+		"ipa": "aR.j", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "imperfektive Zukunft"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "imperfective future tense"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Lõpetamata (imperfektiivse) tuleviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "folyamatos jövőre utaló"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "onvoltooid toekomende tijd"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "imperfekt framtida tempus"
+			}
+		}, 
+		"navi": "ary", 
+		"position": "1", 
+		"shorthand": "impf.fut."
+	}, 
+	{
+		"id": 1520, 
+		"ipa": "IR.m", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "imperfektiver Aspekt der umittelbaren Vergangenheit"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "imperfective recent past tense"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Hiljutise lõpetamata (imperfektiivse) mineviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "folyamatos közelmúltra utaló"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "onvoltooid recent verleden tijd"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "imperfekt nyligen dåtida tempus"
+			}
+		}, 
+		"navi": "ìrm", 
+		"position": "1", 
+		"shorthand": "impf.rec.past."
+	}, 
+	{
+		"id": 1521, 
+		"ipa": "Il.m", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "perfektiver Aspekt der unmittelbaren Vergangenheit"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "perfective recent past tense"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "Hiljutise lõpetatud (perfektiivse) mineviku tunnus."
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "befejezett közelmúltra utaló"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "voltooid recent verleden tijd"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "perfekt nyligen dåtida tempus."
+			}
+		}, 
+		"navi": "ìlm", 
+		"position": "1", 
+		"shorthand": "perf.rec.past."
+	}, 
+	{
+		"id": 1522, 
+		"ipa": "\\t{ts}jIp\\textcorner", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) Diminutiv-Suffix für Nomen, Pronomen"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) diminutive suffix for nouns, pronouns"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) Hellitav, õrnutsev, vähem tähtsamaks tegev, narritav vorm vastavalt kontekstile"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "(4) kicsinyítő képző főnevek, névmások végén(produktív, sosem hangsúlyos)"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "(4) verkleinwoord voorvoegsel voor (voor)naamwoorden"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) diminutiva suffix för substantiv, pronomen"
+			}
+		}, 
+		"navi": "--tsyìp", 
+		"position": null, 
+		"shorthand": "dim."
+	}, 
+	{
+		"id": 1540, 
+		"ipa": "tI us", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) Gerundium (Verbalnomen)"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) gerund (verbal noun)"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) Gerundiivi, teonime moodustamine"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "(4) gerundiumot (főnévként viselkedő főnévi igenevet)"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "verbuiging (zelfstandig gebruik werkwoord)"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) gerundium (verbalt substantiv)"
+			}
+		}, 
+		"navi": "tì-- --us--", 
+		"position": null, 
+		"shorthand": "ger."
+	}, 
+	{
+		"id": 1744, 
+		"ipa": "fRa", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) {\\it jeder}"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) {\\it every}"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) {\\it iga}"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) {\\it minden}"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "({\\bf vnw.}) {\\it elke}"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) {\\it varje}"
+			}
+		}, 
+		"navi": "fra--", 
+		"position": null, 
+		"shorthand": "every"
+	}, 
+	{
+		"id": 1745, 
+		"ipa": "kaw", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "{\\it nicht einer}"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "{\\it not one}"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "{\\it mitte +}"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "{\\it se-, sem-, semmi-}"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "{\\it niet een}"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "{\\it inte en}"
+			}
+		}, 
+		"navi": "kaw--", 
+		"position": null, 
+		"shorthand": "never"
+	}, 
+	{
+		"id": 1785, 
+		"ipa": "fI", 
+		"localized": {
+			"de": {
+				"habitat": "Nomen", 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) {\\it dies}"
+			}, 
+			"en": {
+				"habitat": "nouns", 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) {\\it this}"
+			}, 
+			"est": {
+				"habitat": "nimisõnadele", 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}){\\it see},"
+			}, 
+			"hu": {
+				"habitat": "főnevekhez", 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) {\\it ez a(z)}"
+			}, 
+			"nl": {
+				"habitat": "zelfstandig naamwoorden", 
+				"languageCode": "nl", 
+				"meaning": "({\\bf pro.}) {\\it dit}"
+			}, 
+			"sv": {
+				"habitat": "substantiv", 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) {\\it den här}"
+			}
+		}, 
+		"navi": "fì--", 
+		"position": null, 
+		"shorthand": "this"
+	}, 
+	{
+		"id": 1786, 
+		"ipa": "fnE", 
+		"localized": {
+			"de": {
+				"habitat": "Nomen", 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) {\\it Art von}"
+			}, 
+			"en": {
+				"habitat": "nouns", 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) {\\it kind, type}"
+			}, 
+			"est": {
+				"habitat": "nimisõnadele", 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}){\\it liik, sort},"
+			}, 
+			"hu": {
+				"habitat": "főnevekhez", 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) {\\it féle, fajta}"
+			}, 
+			"nl": {
+				"habitat": "zelfstand naamwoorden", 
+				"languageCode": "nl", 
+				"meaning": "({\\bf pro.}) {\\it soort, type}"
+			}, 
+			"sv": {
+				"habitat": "substantiv", 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) {\\it sort, typ}"
+			}
+		}, 
+		"navi": "fne--", 
+		"position": null, 
+		"shorthand": "kind"
+	}, 
+	{
+		"id": 1787, 
+		"ipa": "\\t{ts}a", 
+		"localized": {
+			"de": {
+				"habitat": "Nomen", 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) {\\it jene, -r, -s}"
+			}, 
+			"en": {
+				"habitat": "nouns", 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) {\\it that}"
+			}, 
+			"est": {
+				"habitat": "nimiõnadele", 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}){\\it see},"
+			}, 
+			"hu": {
+				"habitat": "főnevekhez", 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) {\\it eze a(z)…}"
+			}, 
+			"nl": {
+				"habitat": "zelfstandig naamwoorden", 
+				"languageCode": "nl", 
+				"meaning": "({\\bf pro.}) {\\it die}"
+			}, 
+			"sv": {
+				"habitat": "substantiv", 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) {\\it that}"
+			}
+		}, 
+		"navi": "tsa--", 
+		"position": null, 
+		"shorthand": "that"
+	}, 
+	{
+		"id": 1788, 
+		"ipa": "faj", 
+		"localized": {
+			"de": {
+				"habitat": "Nomen", 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) {\\it diese} (plural)"
+			}, 
+			"en": {
+				"habitat": "nouns", 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) {\\it these}"
+			}, 
+			"est": {
+				"habitat": "nimisõnadele", 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) {\\it need}"
+			}, 
+			"hu": {
+				"habitat": "főnevekhez", 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) {\\it az a(z)…}"
+			}, 
+			"nl": {
+				"habitat": "zelfstandig naamwoorden", 
+				"languageCode": "nl", 
+				"meaning": "({\\bf pro.}) {\\it deze}"
+			}, 
+			"sv": {
+				"habitat": "substantiv", 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) {\\it dessa, dem här}"
+			}
+		}, 
+		"navi": "fay+", 
+		"position": null, 
+		"shorthand": "these"
+	}, 
+	{
+		"id": 1789, 
+		"ipa": "\\t{ts}aj", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "jene"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "those"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "need"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "azok a(z)…"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "deze"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "dem"
+			}
+		}, 
+		"navi": "tsay+", 
+		"position": null, 
+		"shorthand": "That.PL"
+	}, 
+	{
+		"id": 1790, 
+		"ipa": "\\t{ts}aj", 
+		"localized": {
+			"de": {
+				"habitat": "Nomen", 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) {\\it jene} (plural)"
+			}, 
+			"en": {
+				"habitat": "nouns", 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) {\\it those}"
+			}, 
+			"est": {
+				"habitat": "nimisõnadele", 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) {\\it need}"
+			}, 
+			"hu": {
+				"habitat": "főnevekhez", 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) {\\it azok a(z)…}"
+			}, 
+			"nl": {
+				"habitat": "zelfstandig naamwoorden", 
+				"languageCode": "nl", 
+				"meaning": "({\\bf pro.}) {\\it deze}"
+			}, 
+			"sv": {
+				"habitat": "substantiv", 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) {\\it dem där, dem}"
+			}
+		}, 
+		"navi": "tsay+", 
+		"position": null, 
+		"shorthand": "those"
+	}, 
+	{
+		"id": 1792, 
+		"ipa": "paj", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro}) Interrogativmarker plural"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) plural inter. marker"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) Mitmuses küsimuse märkija"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) többes számú kérdő"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "({\\bf pro.}) meervoud inter. markering"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) plural interr. markör"
+			}
+		}, 
+		"navi": "pay+", 
+		"position": null, 
+		"shorthand": "inter."
+	}, 
+	{
+		"id": 1835, 
+		"ipa": "\\t{ts}uk", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "möglich sein"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "able to"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "v-kesksõna"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "képes"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "kunnen, in staat zijn"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "-lig, -bar (skapar ord som synlig, ätbar)"
+			}
+		}, 
+		"navi": "tsuk--", 
+		"position": null, 
+		"shorthand": "able"
+	}, 
+	{
+		"id": 1843, 
+		"ipa": "fkEjk\\textcorner", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) Suffix für Nomen mit der Bedeutung {\\it -zustand, -situation}"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) suffix for nouns meaning {\\it state, condition}"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) järelliide nimisõnadele mis märgivad {\\it olekut}"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "({\\bf prod.}) utótag főnevekhez {\\it állapotot, körülményt fejez ki}"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "({\\bf pro.}) voorvoegsel voor zelfst.nw. betekenend {\\it toestand, conditie}"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "({\\bf pro.}) suffix för substantiv betydande {\\it tillstånd, situation}"
+			}
+		}, 
+		"navi": "--fkeyk", 
+		"position": null, 
+		"shorthand": "state"
+	}, 
+	{
+		"id": 1890, 
+		"ipa": "NaP\\textcorner", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Adjektivmarker"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "adjective"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "omadussõna"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "melléknév"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "adjectief"
+			}, 
+			"sv": {
+				"habitat": null, 
+				"languageCode": "sv", 
+				"meaning": "adjektiv"
+			}
+		}, 
+		"navi": "--nga'", 
+		"position": null, 
+		"shorthand": "adj."
+	}, 
+	{
+		"id": 2052, 
+		"ipa": "R", 
+		"localized": {
+			"de": {
+				"habitat": "Vokal", 
+				"languageCode": "de", 
+				"meaning": "Dativ"
+			}, 
+			"en": {
+				"habitat": "vowel", 
+				"languageCode": "en", 
+				"meaning": "dative"
+			}, 
+			"est": {
+				"habitat": "täishäälik", 
+				"languageCode": "est", 
+				"meaning": "datiivne"
+			}, 
+			"hu": {
+				"habitat": "magánhangzóra végződő főnév végén", 
+				"languageCode": "hu", 
+				"meaning": "részes eset"
+			}, 
+			"nl": {
+				"habitat": "klinker", 
+				"languageCode": "nl", 
+				"meaning": "meew.voorw."
+			}
+		}, 
+		"navi": "--r", 
+		"position": null, 
+		"shorthand": "dat."
+	}, 
+	{
+		"id": 2196, 
+		"ipa": "\\t{ts}wo", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "({\\bf pro.}) Suffix, das ein Verb in ein Nomen ändert, das die Fähigkeit anzeigt, das Verb auszuführen"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "({\\bf pro.}) suffix that changes a verb to a noun indicating the ability to perform the action of the verb"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "({\\bf pro.}) järelliide, mis muudab tegusõna nimisõnaks, mis näitab võimet tegusõna tegevust sooritada"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "({\\bf pro.}) utótag, amely az igét főnévvé változtatja, jelezve az ige végrehajtásának képességét"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "Achtervoegsel dat een werkwoord in een zelfst. naamwoord wijzigt, en de mogelijkheid tot het uitvoeren van de actie werkwoord aangeeft"
+			}
+		}, 
+		"navi": "--tswo", 
+		"position": null, 
+		"shorthand": "suffix"
+	}, 
+	{
+		"id": 2197, 
+		"ipa": "sna", 
+		"localized": {
+			"de": {
+				"habitat": null, 
+				"languageCode": "de", 
+				"meaning": "Präfix Gruppenmarker für Nomen; {\\bf pro.} wenn auf Lebewesen bezogen, ansonsten {\\bf unpro.}"
+			}, 
+			"en": {
+				"habitat": null, 
+				"languageCode": "en", 
+				"meaning": "prefix group marker for nouns; {\\bf pro.} when referring to living things, {\\bf unpro.} otherwise"
+			}, 
+			"est": {
+				"habitat": null, 
+				"languageCode": "est", 
+				"meaning": "eesliide grupi märkimiseks nimisõnadel {\\bf pro.} kui elavate puhul, {\\bf pro.} muudel juhtudel"
+			}, 
+			"hu": {
+				"habitat": null, 
+				"languageCode": "hu", 
+				"meaning": "előtag, csoportot jelez főnevek elején; {\\bf pro.} élőlényekre utal, {\\bf unpro.} másképpen"
+			}, 
+			"nl": {
+				"habitat": null, 
+				"languageCode": "nl", 
+				"meaning": "Voorvoegselgroep voor zelfst. naamwoorden; {\\bf pro.} om levende dingen aan te geven, {\\bf unpro.} anders"
+			}
+		}, 
+		"navi": "sna--", 
+		"position": null, 
+		"shorthand": "prefix"
+	}
+]
